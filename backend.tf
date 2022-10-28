@@ -13,7 +13,7 @@ terraform {
     organization = "eoan"
 
     workspaces {
-      name = "xix_-Iac-with-Terraform-Cloud"
+      name = "terraform-aws-19"
     }
   }
 }
